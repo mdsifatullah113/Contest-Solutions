@@ -1,2 +1,3 @@
 # Contest-Solutions
-Solutions of Codeforces contest
+This repository contain my solutions to competitive programming contest.
+ 
